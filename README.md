@@ -25,7 +25,7 @@ maxfilesize : Rotated if the size of file exceeds specified size. (Default is 0.
 
 :: if the size exeeds 128 bytes.
 
-:: logrotate.bat path\to\file 10 10M
+##### logrotate.bat path\to\file 10 10M
 
 :: The file is rotated from path\to\file.1 to file\to\file.10
 
